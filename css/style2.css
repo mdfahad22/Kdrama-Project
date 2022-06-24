@@ -1,0 +1,102 @@
+/* form--data */
+
+
+#dataForm{
+width: 60%;
+margin: auto;
+  text-align: center;
+  padding: 20px;
+  background-image:  linear-gradient(to left, #1f1c2c, #928dab);
+  border-radius: 10px;
+  
+  
+  }
+  
+
+
+  /* nb--alert */
+
+
+#nbAlert{
+
+width: 70%;
+height: 240px;
+background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+border-radius: 20px 0 20px 0;
+padding: 20px;
+margin:auto;
+
+}
+
+#nbAlert p{
+
+  font-family: Arial;
+  font-size: 24px;
+  text-align: center;
+  height: 36px;
+  line-height: 36px;
+}
+
+
+
+
+
+
+
+  /* selling-item--card */
+
+
+.primecardDiv{
+  width: 98%;
+  margin: auto;
+
+
+
+}
+
+
+  .card{
+
+    display: inline-block; 
+width: 19%;
+margin: 15px 3px 15px 5px;
+
+
+box-sizing: border-box;
+transition: 1s;
+
+border: 1px  solid black;
+
+  }
+
+
+  .cardText{
+font-family: Arial;
+
+padding: 5px;
+  }
+
+.price{
+
+  color: #000000; 
+margin: 10px;
+}
+
+
+.cardText a{
+display: inline-block;
+text-decoration: none;
+text-align: center;
+width: 80px;
+height: 35px;
+line-height: 35px;
+color: white;
+background-color: #F3521E ;
+border-radius: 0 15px 0 15px;
+
+margin: 9px;
+
+}
+
+
+
